@@ -8,12 +8,12 @@ PlusBit is a software platform only and does not conduct any independent diligen
 
 **What can I do with the PlusBit Wallet?**
 With the PlusBit Wallet you can:
-•	Store funds in Bitcoin (BTC), DASH, ILCoin (ILC) and ZEL.
-•	Send and receive cryptocurrency.
-•	Pay invoices.
-However, there are some things you cannot do with any true crypto wallet, including the PlusBit Wallet:
-•	Store fiat money (USD, EUR, JPY, etc). In a true wallet you store cryptocurrency.
-•	Send funds directly to bank accounts.
+* Store funds in Bitcoin (BTC), DASH, ILCoin (ILC) and ZEL.
+* Send and receive cryptocurrency.
+* Pay invoices.
+* However, there are some things you cannot do with any true crypto wallet, including the PlusBit Wallet:
+* Store fiat money (USD, EUR, JPY, etc). In a true wallet you store cryptocurrency.
+* Send funds directly to bank accounts.
 
 
 **Simple account creation using just a username & password (no printing of PDFs, writing down pass phrases, or adding encryption settings)**
@@ -26,18 +26,18 @@ You can hide assets that you don’t want to see by tapping "Remove Asset" at th
 
 **How do I receive crypto?**
 Receiving deposits to your wallet can be accomplished in just a few simple steps!
-•	Open PlusBit and scroll to find the asset you'd like to deposit, and tap on that asset line. 
-•	Tap the "Receive" tab on the screen. 
-•	Here you will see your address in plain text and as a QR code. 
-•	You can use this address to receive funds from another wallet, an exchange account, or from a friend who feels like sharing!
+*	Open PlusBit and scroll to find the asset you'd like to deposit, and tap on that asset line. 
+*	Tap the "Receive" tab on the screen. 
+*	Here you will see your address in plain text and as a QR code. 
+*	You can use this address to receive funds from another wallet, an exchange account, or from a friend who feels like sharing!
 
 **How do I send crypto?**
 Sending coins to your wallet can be accomplished in just a few simple steps! 
-•	Open PlusBit and scroll to find the asset you'd like to send, and tap on that asset. Tap the "Send" tab on the screen.
-•	Paste the address you'd like to send to or you can use the QR reader by clicking on the QR icon.
-•	Enter how much you would like to send. You can write this manually or use "Max" to send all fund.
-•	To set the fee you want, select one of the options "Economy", "Standard" or "Fast".
-•	Finally click the Send button.
+*	Open PlusBit and scroll to find the asset you'd like to send, and tap on that asset. Tap the "Send" tab on the screen.
+*	Paste the address you'd like to send to or you can use the QR reader by clicking on the QR icon.
+*	Enter how much you would like to send. You can write this manually or use "Max" to send all fund.
+*	To set the fee you want, select one of the options "Economy", "Standard" or "Fast".
+*	Finally click the Send button.
 Voila! You just sent your transaction
 
 **Adjusting transaction fees in the wallet**
@@ -46,38 +46,38 @@ PlusBit wallet allows for a custom fee rate to be set which allows users to sele
 PlusBit Wallet doesn't has feature a slider by which the tx fee 'satoshi per byte' can be adjusted manually. This is not recommended for new users. Setting the transaction fee too low may result in your transaction being stuck indefinitely.
 
 **Send "Max" feature in the wallet**
-•	Open PlusBit and scroll to find the asset you'd like to send, and tap on that asset. Tap the "Send" tab on the screen.
-•	Use "MAX" button to send all of the available balance (excluding the network fee). 
-•	Check all the information before sending and click Send X amount. 
-•	Success! You’ve just sent an asset.
+*	Open PlusBit and scroll to find the asset you'd like to send, and tap on that asset. Tap the "Send" tab on the screen.
+*	Use "MAX" button to send all of the available balance (excluding the network fee). 
+*	Check all the information before sending and click Send X amount. 
+*	Success! You’ve just sent an asset.
 
 **How do I see transaction details?**
 You can review your transaction history and details from the wallet section of your PlusBit. 
-•	To start, open PlusBit and tap on the related wallet icon on your portfolio screen and then tap the "Activity" tab on the screen. 
-•	You will see a summary of the asset's price, market value, and your balance. 
-•	From here you can scroll down to see your transaction records. 
-•	To see more details about a particular transaction, click on the item you're interested.
+*	To start, open PlusBit and tap on the related wallet icon on your portfolio screen and then tap the "Activity" tab on the screen. 
+*	You will see a summary of the asset's price, market value, and your balance. 
+*	From here you can scroll down to see your transaction records. 
+*	To see more details about a particular transaction, click on the item you're interested.
 
 **How to change the local currency?**
 You can see your total balance and cryptocurrency price in your local currency. You can change the currency from USD to other fiat currency by tapping "Settings" at the bottom of the portfolio screen. 
-•	Click on the sign of settings in the right bottom corner. 
-•	You will see the available functions. Choose "Change fiat currency".
-•	You will see the list of currencies.
-•	Search for the currency you would like to choose from the drop down menu and click on it.
-•	Now your balance is shown in the chosen currency. 
+*	Click on the sign of settings in the right bottom corner. 
+*	You will see the available functions. Choose "Change fiat currency".
+*	You will see the list of currencies.
+*	Search for the currency you would like to choose from the drop down menu and click on it.
+*	Now your balance is shown in the chosen currency. 
 
 **How to use a Fingerprint (Touch ID login)?**
 The fingerprint feature is here! Read this guide on how to enable it on your device.
-•	Open the wallet.
-•	Click on the sign of settings in the right bottom corner. 
-•	Click "Enable Biometrics"
-•	That’s it! Now you can enter using the fingerprint.
+*	Open the wallet.
+*	Click on the sign of settings in the right bottom corner. 
+*	Click "Enable Biometrics"
+*	That’s it! Now you can enter using the fingerprint.
 
 **How to log out?**
 Every transaction in your wallet is protected with a password. All the sensitive information, such as your private keys and your backup phrase, is protected with a password as well. That way, even if you leave your wallet open on your mobile device, you are secured enough. Still, if you want to close the wallet completely, there is a simple way to do it. 
-•	Click on the sign of settings in the right bottom corner. 
-•	And click Log out.
-•	That’s it! You are out of the app. You will have to log in to enter again.
+*	Click on the sign of settings in the right bottom corner. 
+*	And click Log out.
+*	That’s it! You are out of the app. You will have to log in to enter again.
 
 **What happens if I "Delete Wallet?"**
 If you click the delete wallet function it will remove all wallet data. If you then create a new account with the same username and password you will restore your wallet.
@@ -134,10 +134,10 @@ Almost all blockchain transactions incur network or miner fees (with a few excep
 Portfolio hosts all the assets supported by PlusBit. To use a asset simply click on it's icon to bring you to the assets wallet page.
 
 **Which cryptocurrencies are supported?**
-•	Bitcoin (BTC)
-•	ILCoin (ILC)
-•	Dash (DASH)
-•	Zel (ZEL)
+*	Bitcoin (BTC)
+*	ILCoin (ILC)
+*	Dash (DASH)
+*	Zel (ZEL)
 
 Don't see your favorite currency? Submit a request and we'll add it to our list!
 
